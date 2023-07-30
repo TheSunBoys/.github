@@ -12,5 +12,6 @@ contribuir e aprender com projetos. Seja ele open-source ou  autoral.
   
 # Contatos
 thiagofrankas@gmail.com (nakaharan5)
+
 batistutag190@gmail.com (gabriel batistuta)
 
