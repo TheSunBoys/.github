@@ -9,6 +9,8 @@ contribuir e aprender com projetos. Seja ele open-source ou  autoral.
   [Calculadora de Média - UERN](https://github.com/TheSunBoys/calculadora-de-media-uern-js)
 
   [QA Game](https://github.com/TheSunBoys/game-lab)
+
+  [Locadora POO](https://github.com/TheSunBoys/locadora-poo)
   
 # Contatos
 thiagofrankas@gmail.com (nakaharan5)
